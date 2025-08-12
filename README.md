@@ -12,7 +12,7 @@ RP2040 based firmware for brushless Nerf blasters.
 - (Theoretical) Support for any ESCs that support Bi-directional Dshot 600
 - Low voltage detection
 - Supports both 3S and 4S batteries
-- Custom PCB available [(files found here)]()
+- Custom PCB available [(files found here)](https://github.com/senrath/The-Audacity-Blaster-PCB)
 
 ## Required Hardware (PCBless)
 See the custom PCB files for the wiring diagram.
